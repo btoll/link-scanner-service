@@ -1,0 +1,8 @@
+link-scanner-service
+*.[oa]
+*.out
+*~
+*.log
+sbom.json
+vuln.table
+
